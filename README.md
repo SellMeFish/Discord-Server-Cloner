@@ -24,7 +24,7 @@ The **Discord Server Cloner** is a powerful tool that allows you to replicate an
 ### Running the Program
 1. Clone the repository or download the script:
    ```sh
-   git clone https://github.com/yourusername/discord-server-cloner.git
+   git clone https://github.com/yourusername/Discord-Server-Cloner.git
    cd discord-server-cloner
    ```
 2. Install dependencies:
@@ -66,5 +66,5 @@ Contributions are welcome! Feel free to submit a pull request or report issues.
 ---
 
 ## 📞 Support
-For any questions or support, please contact `your_email@example.com`.
+For any questions or support, please contact `Discord: cyberseall`.
 
